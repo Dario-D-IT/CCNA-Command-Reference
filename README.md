@@ -1,5 +1,4 @@
-# CCNA-Command-Reference
-Personal command reference and lab notes for CCNA preparation
+
 # CCNA Command Reference & Lab Notes 🚀
 
 This repository is my personal knowledge base and command reference guide as I prepare for the CCNA certification. It consolidates labs and notes from **Jeremy's IT Lab**, **David Bombal**, **Neil Anderson**, and **NetAcad**.
