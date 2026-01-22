@@ -24,3 +24,9 @@ VTP synchronizes the vlan.dat file across a VTP domain
 |`vtp mode server` |Sets the VTP mode (server/client/transparent/off) |
 |`vtp version 2` |Sets the VTP version (standard is 2) |
 
+**Verification**
+| Command | Purpose |
+|:--- | :--- |
+|`show vtp status` |Displays domain, version, mode, and revision number |
+|`show vtp password` |Displays the configured VTP password|
+
