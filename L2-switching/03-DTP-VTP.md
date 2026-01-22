@@ -35,7 +35,7 @@ VTP synchronizes the vlan.dat file across a VTP domain
 **Quick Check Table**
 | Command | Purpose |
 |:--- | :--- |
-|`show vtp status` | include Revision` | Check VTP Revision|
+|`show vtp status` | include Revision | Check VTP Revision|
 |`switchport mode trunk + switchport nonegotiate` |Force Trunk (No DTP)|
 |`show vtp counters` | View VTP Counters |
 
