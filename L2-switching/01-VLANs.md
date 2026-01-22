@@ -20,8 +20,15 @@ name SALES_DEPT
 
 ### 2. Assigning an Access Port
 ```bash
-interface Fa0/1
+interface fastEthernet 0/1
  switchport mode access
+ switchport access vlan 10
+```
+### 3.Trunk link configuration
+```bash
+interface gigabitEthernet 0/1
+ switchport trunk encapsulation dot1q  # Obavezno na nekim 3560/3750 modelima
+ switchport mode trunk
 ```
 
 
