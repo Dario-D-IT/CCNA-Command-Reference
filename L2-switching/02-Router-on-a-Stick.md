@@ -32,3 +32,10 @@ We divide the physical interface into logical parts, one for each VLAN
  encapsulation dot1q 20      # Binds this sub-interface to VLAN 20
  ip address 192.168.20.1 255.255.255.0
 ```
+
+### 3.Verification and Troubleshooting
+| Command | Purpose |
+| :--- | :--- |
+| `show ip interface brief` | Verifies that sub-interfaces are status "up" and protocol "up". |
+| `show ip route` | Checks if the router sees the VLAN networks as "Directly Connected". |
+| `show vlans` | (On Router) Displays a summary of sub-interface and VLAN ID mappings.. |
