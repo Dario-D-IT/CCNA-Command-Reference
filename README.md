@@ -11,6 +11,7 @@ This repository is my personal knowledge base and command reference guide as I p
 
 ### 2. Layer 2 Switching
 - [x] [VLANs & Trunking](./L2-switching/01-VLANs.md)
+- [x] [Router on a Stick](./L2-switching/02-Router-on-a-Stick.md)
 - [ ] Spanning Tree Protocol (STP)
 - [ ] EtherChannel
 
