@@ -32,3 +32,10 @@ VTP synchronizes the vlan.dat file across a VTP domain
 |`show vtp status` |Displays domain, version, mode, and revision number |
 |`show vtp password` |Displays the configured VTP password|
 
+**Quick Check Table**
+| Task | Command |
+|:--- | :--- |
+|`Check VTP Revision` |show vtp status | include Revision |
+|`Force Trunk (No DTP)` |switchport mode trunk + switchport nonegotiate|
+|`View VTP Counters` |show vtp counters |
+
