@@ -15,7 +15,8 @@ A BROADCAST DOMAIN is the group of devices which will receive a BROADCAST FRAME 
 ### 1. Creating and Naming a VLAN
 ```bash
 vlan 10
-name SALES_DEPT ```
+name SALES_DEPT
+```
 
 ### 1. Assigning an Access Port
 
