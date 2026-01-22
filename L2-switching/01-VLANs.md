@@ -20,7 +20,7 @@ name SALES_DEPT
 
 ### 2. Assigning an Access Port
 ```bash
-interface e0/1
+interface Fa0/1
  switchport mode access
 ```
 
