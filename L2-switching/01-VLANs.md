@@ -17,6 +17,7 @@ A BROADCAST DOMAIN is the group of devices which will receive a BROADCAST FRAME 
 vlan 10
 name SALES_DEPT
 
-### 2. Assigning an Access Port
+### 1. Creating and Naming a VLAN
+
 
 
