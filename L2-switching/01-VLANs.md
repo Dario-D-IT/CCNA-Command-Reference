@@ -18,7 +18,11 @@ vlan 10
 name SALES_DEPT
 ```
 
-### 1. Assigning an Access Port
+### 2. Assigning an Access Port
+```bash
+interface e0/1
+ switchport mode access
+```
 
 
 
