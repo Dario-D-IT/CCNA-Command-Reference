@@ -14,3 +14,10 @@ To prevent unauthorized trunking and VLAN hopping, disable negotiation on user-f
   switchport mode access
   switchport nonegotiate  # Disables DTP frames entirely
 ```
+## VTP (VLAN Trunking Protocol)
+VTP synchronizes the vlan.dat file across a VTP domain
+**Core Configuration Commands**
+vtp domain ALGEBRA_LAB     # Sets the VTP domain name
+vtp password CISCO         # Optional: Sets a password for synchronization
+vtp mode server            # Sets the VTP mode (server/client/transparent/off)
+vtp version 2              # Sets the VTP version (standard is 2)
