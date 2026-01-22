@@ -27,7 +27,7 @@ name SALES_DEPT
 ### 3. Trunk link configuration
 ```bash
  interface gigabitEthernet 0/1
- switchport trunk encapsulation dot1q  # Obavezno na nekim 3560/3750 modelima
+ switchport trunk encapsulation dot1q  
  switchport mode trunk
 ```
 ## Verification and troubleshooting:
