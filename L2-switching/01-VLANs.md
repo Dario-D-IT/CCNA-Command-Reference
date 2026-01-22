@@ -20,16 +20,25 @@ name SALES_DEPT
 
 ### 2. Assigning an Access Port
 ```bash
-interface fastEthernet 0/1
+ interface fastEthernet 0/1
  switchport mode access
  switchport access vlan 10
 ```
 ### 3.Trunk link configuration
 ```bash
-interface gigabitEthernet 0/1
+ interface gigabitEthernet 0/1
  switchport trunk encapsulation dot1q  # Obavezno na nekim 3560/3750 modelima
  switchport mode trunk
 ```
+## Verification and troubleshooting:
 
+### Displaying the VLAN Database
+```bash
+show vlan brief
+```
+Command,Purpose
+show vlan brief,Displays all configured VLANs and assigned access ports.
+show interfaces trunk,"Identifies active trunk ports, Native VLAN, and allowed list."
+show interface [id] switchport,Detailed report of administrative and operational states.
 
 
