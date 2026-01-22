@@ -10,7 +10,7 @@ This repository is my personal knowledge base and command reference guide as I p
 - [ ] IPv4 Subnetting
 
 ### 2. Layer 2 Switching
-- [ ] VLANs & Trunking
+- [x] [VLANs & Trunking](./L2-switching/01-VLANs.md)
 - [ ] Spanning Tree Protocol (STP)
 - [ ] EtherChannel
 
