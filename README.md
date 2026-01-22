@@ -1,9 +1,9 @@
 
-# CCNA Command Reference & Lab Notes 🚀
+# CCNA Command Reference & Lab Notes 
 
 This repository is my personal knowledge base and command reference guide as I prepare for the CCNA certification. It consolidates labs and notes from **Jeremy's IT Lab**, **David Bombal**, **Neil Anderson**, and **NetAcad**.
 
-## 📌 Roadmap / Table of Contents
+## Roadmap / Table of Contents
 
 ### 1. Network Fundamentals
 - [ ] Basic Device Configuration
@@ -16,7 +16,7 @@ This repository is my personal knowledge base and command reference guide as I p
 
 ### 3. IP Routing
 - [ ] Static Routing
-- [ ] **OSPFv2 Fundamentals** (Next Step 🎯)
+- [ ] **OSPFv2 Fundamentals** 
 
 ### 4. IP Services & Security
 - [ ] DHCP & NAT
