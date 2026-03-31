@@ -1,7 +1,7 @@
 # 03 - OSPFv2 osnove
 
 ## Svrha
-OSPF (Open Shortest Path First) je **Link-State** routing protokol koji koristi **Dijkstra SPF algoritam** za izračun najbolje putanje. Otvoreni standard — radi na svim proizvođačima.
+OSPF (Open Shortest Path First) je **Link-State** routing protokol koji koristi **Dijkstra SPF algoritam** za izračun najbolje putanje. Otvoreni standard — radi na uređajima svih proizvođača.
 
 ---
 
