@@ -1,7 +1,7 @@
 # 01 - Statičko usmjeravanje (Static Routing)
 
 ## Svrha
-Statičko usmjeravanje je **ručno konfiguriranje putanja** u routing tablici. Za razliku od dinamičkih protokola, router ovdje ne "razgovara" s drugima, već slijedi fiksne upute koje si ti postavio.
+Statičko usmjeravanje je **ručno konfiguriranje putanja** u routing tablici. Za razliku od dinamičkih protokola, router ovdje ne "razgovara" s drugima, već slijedi fiksne upute koje mu zadamo.
 
 ---
 
