@@ -99,7 +99,7 @@ UPOZORENJE: Pristup ovom uređaju dozvoljen je samo ovlaštenim osobama!
 
 # Login banner — prikazuje se prije unosa lozinke
 R1(config)# banner login #
-Autorizirani korisnici samo. Sve aktivnosti se bilježe.
+Samo Autorizirani korisnici.
 #
 ```
 
