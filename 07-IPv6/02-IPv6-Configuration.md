@@ -13,7 +13,7 @@ Radi na **Network Layeru (Layer 3)**.
 ## 1. Uključivanje IPv6 usmjeravanja
 
 ```bash
-# Obavezno na routerima — bez ove naredbe router ne usmjerava IPv6 promet
+# Obavezno na routerima — bez ove naredbe router ne routira IPv6 promet
 Router(config)# ipv6 unicast-routing
 ```
 
