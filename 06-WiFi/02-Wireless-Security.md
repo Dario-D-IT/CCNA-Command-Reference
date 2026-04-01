@@ -14,10 +14,10 @@ Autentifikacija i enkripcija rade na **Data Link Layeru (Layer 2)** i **Applicat
 
 | Protokol | Godina | Enkripcija | Status | Problem |
 | :--- | :--- | :--- | :--- | :--- |
-| **WEP** | 1997 | RC4 (40/104-bit) | Zastarjelo  | Lako se hakira u minutama |
+| **WEP** | 1997 | RC4 (40/104-bit) | Zastarjelo  | Lako se probije |
 | **WPA** | 2003 | TKIP (RC4) | Zastarjelo  | TKIP je "zakrpa" za WEP |
-| **WPA2** | 2004 | AES-CCMP (128-bit) | Trenutni standard ✓ | Ranjiv na KRACK napad |
-| **WPA3** | 2018 | AES-GCMP (256-bit) | Najnoviji ✓ | SAE zamjena za PSK |
+| **WPA2** | 2004 | AES-CCMP (128-bit) | Trenutni standard ✓ | . |
+| **WPA3** | 2018 | AES-GCMP (256-bit) | Najnoviji ✓ | . |
 
 ---
 
