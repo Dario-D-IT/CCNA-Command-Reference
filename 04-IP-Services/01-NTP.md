@@ -18,7 +18,7 @@ Koristi **UDP port 123**.
 
 ### 1. NTP klijent — sinkronizacija s vanjskim serverom
 ```bash
-# Postavi NTP server (javni Cisco NTP server)
+# Postavi NTP server 
 Router(config)# ntp server 216.239.35.0
 
 # Postavi vremensku zonu
@@ -39,10 +39,10 @@ Cisco uređaji imaju **dva sata**:
 
 | Sat | Naziv | Opis |
 | :--- | :--- | :--- |
-| **Hardware clock** | Calendar | Baterijski napajan, radi čak i kad je uređaj isključen |
+| **Hardware clock** | Calendar | Baterijski napajan, radi i kad je uređaj isključen |
 | **Software clock** | System clock | Aktivni sat koji uređaj koristi za sve operacije |
 
-> Kad se uređaj pokrene, softverski sat se inicijalizira iz hardverskog sata.
+> Kad se uređaj pokrene, softverski sat inicijalizira se iz hardverskog sata.
 
 ### Sinkronizacija između satova
 ```bash
