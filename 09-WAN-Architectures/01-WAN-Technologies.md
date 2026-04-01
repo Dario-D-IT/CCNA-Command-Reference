@@ -47,7 +47,7 @@ Lokacija A ─── MPLS mreža ISP-a ─── Lokacija B
 - Ethernet tehnologija proširena na **gradsko (Metropolitan) područje**
 - Korisnik dobiva **Ethernet port** kao da je direktno spojen na LAN
 - Visoke brzine, relativno povoljno
-- Tipovi: **E-Line** (point-to-point), **E-LAN** (multipoint)
+- Tipovi: **E-Line** (point-to-point), **E-LAN** (multipoint), **E-tree** (hub and spoke)
 
 ### Internet Broadband tehnologije
 
