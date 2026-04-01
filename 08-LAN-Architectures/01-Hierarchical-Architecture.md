@@ -14,7 +14,7 @@ Hijerarhijski model dijeli mrežu u logičke slojeve s jasno definiranim ulogama
          └──────────────┬──────────────┘
               ┌─────────┴─────────┐
     ┌─────────┴──────┐   ┌────────┴─────────┐
-    │  DISTRIBUTION  │   │   DISTRIBUTION   │  ← Politike, usmjeravanje između blokova
+    │  DISTRIBUTION  │   │   DISTRIBUTION   │  ← Policy, usmjeravanje između blokova
     └────────┬───────┘   └────────┬─────────┘
        ┌─────┴─────┐         ┌───┴─────┐
     ┌──┴──┐     ┌──┴──┐   ┌──┴──┐  ┌──┴──┐
