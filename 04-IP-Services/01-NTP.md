@@ -2,7 +2,7 @@
 
 ## Svrha
 NTP sinkronizira sat (sistemsko vrijeme) na svim mrežnim uređajima. Točno vrijeme kritično je za:
-- **Syslog** — bez sinkroniziranog vremena logovi s više uređaja nisu usporedivi
+- **Syslog** — bez sinkroniziranog vremena logovi sa više uređaja nisu usporedivi
 - **Certifikate** — SSL/TLS certifikati imaju rok trajanja
 - **Kerberos autentifikaciju** — tolerira maksimalno 5 minuta razlike
 
