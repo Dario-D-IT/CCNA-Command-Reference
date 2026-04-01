@@ -44,7 +44,7 @@ Klijent → [EAP] → AP (Authenticator) → [RADIUS] → RADIUS Server (Authent
 
 ---
 
-## 3. WPA2 Personal — 4-Way Handshake
+## 3. WPA2 Personal — 4-Way Handshake - mislim da ne treba za CCNA tako detaljno.
 
 Nakon što klijent pošalje ispravnu lozinku (PSK), odvija se 4-smjerni rukovanje za generiranje ključeva sesije:
 
