@@ -25,7 +25,7 @@ Koristi **UDP port 514** (defaultno) ili TCP 514 / TCP 6514 (TLS).
 | 6 | Informational | Informativne poruke | **I**nfo |
 | 7 | Debug | Debug poruke (detaljno) | **D**umps |
 
-> **Mnemotehnika:** **"Every Awful Cisco Engineer Will Need Ice Daily"**
+
 
 > ⚠️ Kada postaviš razinu, Syslog šalje **tu razinu i sve više prioritetne** (manji broj = viši prioritet). Npr. `logging trap 4` šalje razine 0-4.
 
