@@ -39,7 +39,7 @@ Switch(config-if)# ip arp inspection trust
 Switch(config)# interface FastEthernet0/1
 Switch(config-if)# ip arp inspection limit rate 100   # max 100 ARP paketa/sekundi
 
-# Za statičke uređaje bez DHCP (npr. serveri s fiksnom IP) — ručni ARP ACL
+# Za statičke uređaje bez DHCP (npr. serveri s fiksnom IP) — ručni ARP ACL - misim da ovo nema na CCNA!!
 Switch(config)# arp access-list STATICNI_UREDAJI
 Switch(config-arp-acl)# permit ip host 192.168.10.100 mac host AA.BBCC.DD11.2233
 Switch(config)# ip arp inspection filter STATICNI_UREDAJI vlan 10
