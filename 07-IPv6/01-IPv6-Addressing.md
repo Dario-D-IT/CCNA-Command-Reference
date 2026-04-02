@@ -16,7 +16,7 @@ IPv6 adresa je dugačka **128 bita**, zapisana kao **8 grupa po 16 bita**, odvoj
 
 ```
 Primjer:  2001:0DB8:0000:0001:0000:0000:0000:0001
-Grupe:    [  1 ][  2 ][  3 ][  4 ][  5 ][  6 ][  7 ][  8 ]
+Grupe:    [1 ][ 2 ][ 3 ][ 4 ][ 5 ][ 6 ][ 7 ][ 8 ]
 ```
 
 ---
