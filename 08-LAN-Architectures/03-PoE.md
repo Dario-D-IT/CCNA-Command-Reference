@@ -17,7 +17,7 @@ PoE radi na **Physical Layeru (Layer 1)** — električna energija se prenosi kr
 | :--- | :--- | :--- | :--- |
 | **802.3af** | PoE | 15.4 W | IP telefoni, stariji AP-ovi |
 | **802.3at** | PoE+ | 30 W | Noviji AP-ovi, PTZ kamere |
-| **802.3bt** | PoE++ (4PPoE) | 60 W / 100 W | Tanki klijenti, videostijene, LED rasvjeta |
+| **802.3bt** | PoE++ (4PPoE) | 60 W / 100 W | videowall, LED rasvjeta |
 
 > **Napomena:** Snaga navedena je na **portu switcha (PSE)**. Uređaj koji se napaja (PD) prima nešto manje zbog gubitaka na kabelu.
 
