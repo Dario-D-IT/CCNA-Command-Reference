@@ -87,7 +87,7 @@ Terraform je alat za **Infrastructure as Code (IaC)** — definiraš infrastrukt
 | **State** | Terraform prati trenutno stanje infrastrukture u `.tfstate` datoteci |
 | **Plan** | Prikazuje što će Terraform promijeniti prije primjene |
 | **Apply** | Primjenjuje promjene na infrastrukturu |
-| **Idempotent** | Pokretanje `apply` više puta ne duplicira resurse |
+
 
 ### Terraform workflow
 ```
