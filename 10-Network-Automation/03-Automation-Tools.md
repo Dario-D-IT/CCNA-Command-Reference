@@ -66,7 +66,6 @@ ansible_connection=network_cli
 
 ### Prednosti Ansible-a
 - **Agentless** — nema instalacije na uređajima
-- **Idempotentnost** — sigurno pokretati više puta
 - **YAML** — čitljiv i razumljiv format
 - **Veliki ekosustav modula** za Cisco IOS, NX-OS, ASA, DNA Center...
 
