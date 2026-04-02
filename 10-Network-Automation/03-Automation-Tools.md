@@ -136,7 +136,7 @@ resource "aci_vrf" "main_vrf" {
 | Agent | Agentless (SSH) | Agentless (API) |
 | State management | Ne prati state | Prati state (.tfstate) |
 | Mrežna primjena | Cisco IOS/NX-OS konfiguracija | Cloud mreže, SDN (ACI) |
-| Idempotentnost | Da (moduli) | Da (nativno) |
+
 
 ### Kada koristiti koji?
 ```
