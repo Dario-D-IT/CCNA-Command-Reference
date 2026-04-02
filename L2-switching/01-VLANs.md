@@ -43,7 +43,7 @@ Potrebno je shvatiti razliku između:
 
 ##### 1. Default VLAN (VLAN 1)
 * Tvornički definiran VLAN u koji pripadaju svi portovi switcha po defaultu.
-* Radi na L2.
+* Radi na L2 sloju.
 * Ne možeš ga obrisati niti mu promijeniti ime. Preko njega idu kontrolni protokoli poput CDP, LLDP, VTP i STP.
 * Preporuka: ne koristiti ga za podatkovni promet.
 
