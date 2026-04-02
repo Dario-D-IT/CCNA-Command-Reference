@@ -20,7 +20,7 @@ Ansible je **agentless** alat za automatizaciju — ne treba instalirati nikakav
 | **Module** | Gotova funkcija za specifičan zadatak (npr. `ios_config`) |
 | **Task** | Jedan korak unutar Playbooka |
 | **Role** | Skup Playbooka organiziranih po funkciji |
-| **Idempotent** | Pokretanje istog Playbooka više puta ne uzrokuje probleme |
+
 
 ### Primjer Ansible Playbooka za Cisco IOS
 ```yaml
